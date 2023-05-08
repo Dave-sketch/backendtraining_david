@@ -1,1 +1,1 @@
-# machine learning lesson
+# backend_training_david
